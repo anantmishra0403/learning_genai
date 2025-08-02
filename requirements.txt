@@ -18,3 +18,9 @@ scipy
 nltk
 wordcloud
 transformers
+validators==0.28.1
+youtube-transcript-api
+streamlit
+pytube
+unstructured
+yt-dlp
